@@ -1,5 +1,5 @@
 {
-  "version": "0.0.1",
+  "version": "0.0.2",
   "name": "AppBuster",
   "description": "KaiOS pre-installed application manager",
   "launch_path": "/index.html",
